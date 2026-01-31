@@ -11,7 +11,7 @@
 * SwitchBotアプリをインストールしたスマートフォンとWi-Fi：初期設定の時に必要です
 * Webカメラ：必須ではありませんが、動かしたい家電品をユーザーに認識してもらいやすくなります
 * 視線入力デバイス（Tobii Eye Tracker 5など）：視線入力しない場合は必要ありません
-* 視線マウスアプリ（EyeMoT Mouseなど）：視線入力しない場合は必要ありません
+* 視線マウスアプリ（EyeMoT Mouse https://www.poran.net/ito/download/eyemot-mouse など）：視線入力しない場合は必要ありません
 
 ## 📥 ダウンロード方法
 1. 右側の [Releases] をクリックします。
