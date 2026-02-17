@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📺 使い方動画（YouTube）
-[こちらから操作の様子をご覧いただけます](https://youtu.be/TDidwv3S9KU)
+[こちらから操作の様子をご覧いただけます](https://youtu.be/7hJmU1tb4i0)
 
 ## 🛠 必要なもの
 * WindowsPC
