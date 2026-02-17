@@ -1,6 +1,9 @@
 # SwitchBot_Eye_BT
 重度肢体不自由児・者が視線入力デバイス（Tobii Eye Tracker 5など）やアクセシビリティスイッチ入力でマウスクリックできるインターフェイスを使用して、SwitchBotプラグミニに接続された家電製品を操作するためのWindowsアプリです。
 
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## 📺 使い方動画（YouTube）
 [こちらから操作の様子をご覧いただけます](https://youtu.be/TDidwv3S9KU)
 
