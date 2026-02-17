@@ -204,4 +204,9 @@ cython_debug/
 # Marimo
 marimo/_static/
 marimo/_lsp/
+
+# PyInstaller outputs
+build/
+dist/
+*.spec
 __marimo__/
